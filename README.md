@@ -12,7 +12,7 @@ Search for one-line words, phrases, quotes and numbers on the web using sms.
 
 - Sending sms texts to Google Search.
 
-## REFERENCES
+### REFERENCES
 
 [Google's Messages for Web](https://messages.google.com/web/authentication)
 <br />
